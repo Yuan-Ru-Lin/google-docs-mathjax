@@ -5,7 +5,7 @@ A fork from [github-mathjax](https://github.com/orsharir/github-mathjax) by [Or 
 
 ## Demo
 
-![demo](https://github.com/Yuan-Ru-Lin/google-docs-mathjax/blob/master/screenshot.md)
+![demo](https://github.com/Yuan-Ru-Lin/google-docs-mathjax/blob/master/screenshot.png)
 
 
 ## Installation
